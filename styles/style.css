@@ -135,7 +135,6 @@ main{
 }
 .live_match_single .live_match_cnt{
   padding:15px 10px;
-  text-align: center;
 }
 .live_match_cnt .transfer{
   text-decoration: none;
